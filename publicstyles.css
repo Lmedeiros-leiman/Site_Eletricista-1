@@ -855,7 +855,7 @@ a{
 }
 
 .ImagemMovel{
-  background: url("../../images/fotocasa_resized.png");
+  background: url("../images/fotocasa_resized.png");
   background-position: center ;
   background-repeat: no-repeat;
   background-size:cover;
@@ -867,7 +867,7 @@ a{
 }
 
 .ImagemEletricista{
-  background: url("../../images/fotoeletricista_resized.png");
+  background: url("../images/fotoeletricista_resized.png");
   background-position: bottom right;
   background-repeat: no-repeat;
   background-size: contain ;
