@@ -1,0 +1,15 @@
+{
+  "name": "paginaeletricistaautonomo",
+  "version": "1.0.0",
+  "description": "um pequeno website utilizando HTML, Tailwind CSS e Javascript. o tema do site é sobre um eletricista autonomo. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-icons": "^1.10.5",
+    "tailwindcss": "^3.3.3"
+  }
+}
