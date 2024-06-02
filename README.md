@@ -1,11 +1,17 @@
-# Site_Eletricista-1
+# Site eletricista
 
-Um pequeno site para um eletricista freelancer ou para uma empresa.
+Um modelo de website que oferta a venda de serviços de um ou mais eletricistas.
 
-o projeto foi criado utilizando HTML e Tailwind.
-os arquivos essenciais do projeto estão dentro da pasta Public.
+O website é criado utilizando NPM com React.
+A pasta build possui a versão optimizada do website que deve ser exposta para o mundo.
 
-O website é pequeno porem 100% responsivo e desenhado pensando tanto para Celular e Desktop.
+para abrir o servidor web utilize:
 
-![Imagem demonstração do site](https://github.com/Lmedeiros-leiman/Site_Eletricista-1/assets/57924586/4def5b3b-29ee-49ea-9a48-78c0c10c5056)
-![image](https://github.com/Lmedeiros-leiman/Site_Eletricista-1/assets/57924586/92ff5f33-7d24-44dc-be12-0a68ab35add0)
+> npm install
+>
+> npm run dev
+
+para abrir o servidor de desenvolvimento local.
+
+após as alterações, utilize ```npm run build``` para criar a versão optimizada e reduzida do website.
+
