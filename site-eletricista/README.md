@@ -11,7 +11,7 @@ para abrir o servidor web utilize:
 >
 > npm run dev
 
-para abrir o servidor de desenvolvimento local.
+para abrir o servidor de desenvolvimento local na porta 3000.
 
 após as alterações, utilize ```npm run build``` para criar a versão optimizada e reduzida do website.
 
