@@ -36,7 +36,7 @@ const Landing = () => {
                     Conheça os melhores eletreticistas do Brasil
                 </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-                Resolva seus problemas elétricos com a seleção dos melhores talentos de cada localidade que o brasil pode oferecer.
+                Resolva seus problemas elétricos com a seleção dos melhores talentos que cada localidade do Brasil pode oferecer.
             </p>
                 <div className="mt-10 flex items-center justify-center gap-x-6">
                 
