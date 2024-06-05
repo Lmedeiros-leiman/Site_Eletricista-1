@@ -52,7 +52,9 @@ const Navbar = () => {
             ))}
             </div>
             <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-                    <SimpleButton href="#" showArrow={true}>Logar-se </SimpleButton>
+                    <SimpleButton href="#" showArrow={true} 
+                    TextclassName={undefined} ArrowclassName={undefined}
+                    >Logar-se </SimpleButton>
             </div>
             </nav>
             <Dialog className="lg:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
@@ -90,7 +92,9 @@ const Navbar = () => {
                         ))}
                         </div>
                         <div className="py-6">
-                            <SimpleButton href="#" showArrow={false}>Logar-se</SimpleButton>
+                            <SimpleButton href="#" showArrow={false} 
+                            TextclassName={undefined} ArrowclassName={undefined}
+                            >Logar-se</SimpleButton>
                         </div>
                     </div>
                 </div>
